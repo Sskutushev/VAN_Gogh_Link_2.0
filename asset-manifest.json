@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/VAN_Gogh_Link_2.0/static/css/main.35e845f5.css",
-    "main.js": "/VAN_Gogh_Link_2.0/static/js/main.71b2d338.js",
+    "main.js": "/VAN_Gogh_Link_2.0/static/js/main.6cf5088e.js",
     "static/media/image1.png": "/VAN_Gogh_Link_2.0/static/media/image1.e2e5671e6d51918fa53c.png",
     "static/media/image3.png": "/VAN_Gogh_Link_2.0/static/media/image3.8a6568a778d525eb0f36.png",
     "static/media/image2.png": "/VAN_Gogh_Link_2.0/static/media/image2.87fe79e9be9427b425e4.png",
@@ -18,10 +18,10 @@
     "static/media/Frame 167.svg": "/VAN_Gogh_Link_2.0/static/media/Frame 167.d0bc08d4e2d65c295a557cdfa69636c7.svg",
     "static/media/Frame 301.svg": "/VAN_Gogh_Link_2.0/static/media/Frame 301.d47e3157faf333ca5cc6237538e000c0.svg",
     "main.35e845f5.css.map": "/VAN_Gogh_Link_2.0/static/css/main.35e845f5.css.map",
-    "main.71b2d338.js.map": "/VAN_Gogh_Link_2.0/static/js/main.71b2d338.js.map"
+    "main.6cf5088e.js.map": "/VAN_Gogh_Link_2.0/static/js/main.6cf5088e.js.map"
   },
   "entrypoints": [
     "static/css/main.35e845f5.css",
-    "static/js/main.71b2d338.js"
+    "static/js/main.6cf5088e.js"
   ]
 }
