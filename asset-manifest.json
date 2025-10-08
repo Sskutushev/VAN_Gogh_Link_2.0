@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/VAN_Gogh_Link_2.0/static/css/main.35e845f5.css",
+    "main.js": "/VAN_Gogh_Link_2.0/static/js/main.71b2d338.js",
+    "static/media/image1.png": "/VAN_Gogh_Link_2.0/static/media/image1.e2e5671e6d51918fa53c.png",
+    "static/media/image3.png": "/VAN_Gogh_Link_2.0/static/media/image3.8a6568a778d525eb0f36.png",
+    "static/media/image2.png": "/VAN_Gogh_Link_2.0/static/media/image2.87fe79e9be9427b425e4.png",
+    "static/media/pic2.png": "/VAN_Gogh_Link_2.0/static/media/pic2.2d231b0ae0c023cad836.png",
+    "static/media/pic5.png": "/VAN_Gogh_Link_2.0/static/media/pic5.beab0fe7b8ad70c7f0ee.png",
+    "static/media/pic3.png": "/VAN_Gogh_Link_2.0/static/media/pic3.3aa83854195edf6581d0.png",
+    "static/media/pic1.png": "/VAN_Gogh_Link_2.0/static/media/pic1.0f1d0ff067584f5d4d95.png",
+    "static/media/pic6.png": "/VAN_Gogh_Link_2.0/static/media/pic6.4be0a5a890d8fd416635.png",
+    "static/media/pic4.png": "/VAN_Gogh_Link_2.0/static/media/pic4.ae7e372cbe85ba6c9d27.png",
+    "static/media/logo.svg": "/VAN_Gogh_Link_2.0/static/media/logo.24ea344bb4630f8f5d1cef1924bd48f0.svg",
+    "index.html": "/VAN_Gogh_Link_2.0/index.html",
+    "static/media/Frame 373.svg": "/VAN_Gogh_Link_2.0/static/media/Frame 373.fa28e028a94a36a1bd9849d6dfd11de2.svg",
+    "static/media/Frame 372.svg": "/VAN_Gogh_Link_2.0/static/media/Frame 372.28aee7290f7ba24db11e2f43681a6b5a.svg",
+    "static/media/Frame 167.svg": "/VAN_Gogh_Link_2.0/static/media/Frame 167.d0bc08d4e2d65c295a557cdfa69636c7.svg",
+    "static/media/Frame 301.svg": "/VAN_Gogh_Link_2.0/static/media/Frame 301.d47e3157faf333ca5cc6237538e000c0.svg",
+    "main.35e845f5.css.map": "/VAN_Gogh_Link_2.0/static/css/main.35e845f5.css.map",
+    "main.71b2d338.js.map": "/VAN_Gogh_Link_2.0/static/js/main.71b2d338.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35e845f5.css",
+    "static/js/main.71b2d338.js"
+  ]
+}
